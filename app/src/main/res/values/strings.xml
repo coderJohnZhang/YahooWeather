@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!--weather start-->
+    <string name="weather_default_city">Shenzhen</string>
+    <string name="weather_default_temp">29°C~33°C</string>
+    <string name="weather_default_txt">Sunny</string>
+    <string name="no_weather_data">No data</string>
+    <!--weather end-->
+</resources>
