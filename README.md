@@ -47,7 +47,7 @@ Step 2. Add the dependency
 ### gradle
 
 	dependencies {
-	        compile 'com.github.coderJohnZhang:YahooWeather:v1.0.1'
+	      compile 'com.github.coderJohnZhang:YahooWeather:v1.0.1'
           compile 'org.greenrobot:eventbus:3.0.0'
           compile 'com.github.bumptech.glide:glide:3.5.2'
 	}
